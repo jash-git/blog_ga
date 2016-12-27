@@ -1,0 +1,9 @@
+各檔案功能簡介:
+conn.php					->連接資料庫
+js_php_visitors.php			->執行瀏覽紀錄
+run.html					->展示如何插入要被記錄的網頁中
+visitors.php				->顯示紀錄結果
+crazedit_google_seo.sql		->SQL
+
+---------
+應用實例:http://jashliao.pixnet.net/blog
